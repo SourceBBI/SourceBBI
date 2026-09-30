@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://brothersbusinessintelligence.com/"><img alt="Website" src="https://img.shields.io/badge/web-brothersbusinessintelligence.com-2F6BF0?style=flat-square"></a>
   <a href="https://brothersbusinessintelligence.com/en/solution.html"><img alt="Solution" src="https://img.shields.io/badge/the-solution-0e1116?style=flat-square"></a>
-  <a href="mailto:contact@brothersbusinessintelligence.com?subject=BBI%20demo%20request"><img alt="Request a demo" src="https://img.shields.io/badge/request-a%20demo-2F6BF0?style=flat-square"></a>
+  <a href="mailto:admin@brothersbusinessintelligence.com?subject=BBI%20demo%20request"><img alt="Request a demo" src="https://img.shields.io/badge/request-a%20demo-2F6BF0?style=flat-square"></a>
 </p>
 
 ---
@@ -70,5 +70,5 @@
 </details>
 
 <p align="center">
-  <sub>© Brothers Business Intelligence · <a href="https://brothersbusinessintelligence.com/">brothersbusinessintelligence.com</a> · <a href="mailto:contact@brothersbusinessintelligence.com">contact@brothersbusinessintelligence.com</a></sub>
+  <sub>© Brothers Business Intelligence · <a href="https://brothersbusinessintelligence.com/">brothersbusinessintelligence.com</a> · <a href="mailto:admin@brothersbusinessintelligence.com">admin@brothersbusinessintelligence.com</a></sub>
 </p>
