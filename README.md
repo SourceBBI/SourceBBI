@@ -36,6 +36,27 @@
 
 <p align="center"><i>Aristote organises. Ptolémée understands. Darwin anticipates.</i></p>
 
+### What we are building on Odoo
+
+We are progressively turning Odoo into a complete platform for jewellery houses, one business need at a time. Current workstreams:
+
+| Area | What it brings |
+|---|---|
+| 💰 **Metal & labour pricing** | Product prices driven by live precious-metal rates, fineness and labour cost, across thousands of variants and several price lists. |
+| ⚖️ **Weight accounts** | Customer and supplier metal balances (gold, silver, platinum, palladium) with fineness equivalents, supplies and transfers. |
+| 💎 **Product catalogue & variants** | Structured jewellery catalogue: collections, sizes, metals, stones and automatic variant generation. |
+| 🖼️ **Product media** | Automated import and classification of product photos and 3D assets from FTP into Odoo and the web shop. |
+| 🏢 **Multi-company & international** | Workshops, trading and distribution entities in several countries, with inter-company flows and consolidated reporting. |
+| 🛒 **B2B portal & e-shop** | Customer portal and online catalogue showing up-to-date prices, balances and orders. |
+| 📊 **Dashboards & BI** | Real-time views on margins, stock, metal exposure and performance. |
+| ⚙️ **Platform & DevOps** | Automated deployment (dev → staging → production), backups and monitoring. |
+
+<p align="center"><i>Standard Odoo where it fits — specialised BBI modules where the jewellery trade needs them.</i></p>
+
+### How we work
+
+**Listen** to the workshop and the office → **Model** the trade in Odoo → **Build** focused modules → **Test** in real conditions → **Deploy** and improve continuously.
+
 ### Principles
 
 - **Odoo connects the functions, BBI specialises the trade** — keep standard modules where they fit, add only the specialised components needed.
@@ -65,6 +86,8 @@
 - **Aristote — Opérer** : ERP multi-entreprise, production, stocks, achats, métaux, pierres et comptes-poids.
 - **Ptolémée — Comprendre** : marges réelles corrélées au cours de l'or, rendements, écarts, tableaux de bord.
 - **Darwin — Anticiper** : prévisions matière, détection d'anomalies, scénarios et agents d'IA.
+
+**Nos chantiers sur Odoo** : prix indexés sur les cours des métaux et la façon · comptes-poids clients et fournisseurs · catalogue et variantes joaillerie · médias produits automatisés · multi-sociétés et international · portail B2B et e-shop · tableaux de bord · déploiement et supervision automatisés.
 
 *Odoo relie les fonctions. BBI spécialise le métier.*
 </details>
